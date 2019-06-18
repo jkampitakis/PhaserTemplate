@@ -7,11 +7,6 @@
     "dev": "webpack-dev-server --config webpack/base.js --open",
     "capacitor": "cp -R ./src/ ./../CapacitorTemplate/src/ && cp index.html ./../CapacitorTemplate/"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/photonstorm/phaser3-project-template.git"
-  },
-  "homepage": "https://github.com/photonstorm/phaser3-project-template#readme",
   "devDependencies": {
     "@babel/core": "^7.2.2",
     "@babel/preset-env": "^7.2.3",
